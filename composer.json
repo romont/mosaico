@@ -1,0 +1,9 @@
+{
+    "name": "romont/mosaico",
+    "description": "Mosaico - Responsive Email Template Editor",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0"
+    }
+}
